@@ -1,4 +1,4 @@
- # Hey there! 
+ ## Hey there! 
 
 I'm Paulo Kositis, a front-end developer and designer based in Brazil.
 
@@ -11,7 +11,7 @@ My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I espec
 
 
 
-## Fun facts 🤩🤩
+### Fun facts 🤩🤩
 
 - I've a cat
 - Blue Lock currently it's my favorite manga and my favorite anime it's Hunter X Hunter 2011

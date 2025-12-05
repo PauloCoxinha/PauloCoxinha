@@ -1,15 +1,19 @@
-- 👋 Hi, I’m Paulo Kositis
-- 👀 I’m interested in become a programmer and a YouTube content creator 
-- 🌱 I’m currently learning JavaScript, HTML5 and CSS3, Git and Github etc...
-- 📫 How to reach me with the social medias: You can contact me for my email: paulokositis@gmail.com
-- My Instagram: https://www.instagram.com/pkositis/
-- my twitter:  https://x.com/KositisOFC
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love studying programming and i love so much practice sports 
+ # Hey there! 
+
+I'm Paulo Kositis, a front-end developer and designer based in Brazil.
+
+I design and create everything I can imagine.
+
+I love being a creative person, and because of that, I spend a lot of time sketching websites and apps.
+
+My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I especially love creating animations with JavaScript and CSS. i'm currently learning wordpress and python. 
 
 
 
-<!---
-PauloCoxinha/PauloCoxinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Fun facts 🤩🤩
+
+- I've a cat
+- Blue Lock currently it's my favorite manga and my favorite anime it's Hunter X Hunter 2011
+- I love Pokémonn
+- I've a Youtube channel!

@@ -1,3 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=7800F2&reversal=false&textBg=false">
+
+<p align="center">
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=25&pause=1000&color=881DF7&width=435&lines=Oi%2C+eu+sou+o+kositis!" alt="Typing SVG"  /></a> </p>
+ 
  ## Hey there! 
 
 I'm Paulo Kositis, a front-end developer and designer based in Brazil.
@@ -21,9 +26,11 @@ My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I espec
   
 # 📊 GitHub Stats: <br/>
 
-![Kositis's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloCoxinha&show_icons=true&theme=midnight-purple)
+![Kositis's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloCoxinha&show_icons=true&theme=midnight-purple) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PauloCoxinha&theme=midnight-purple)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCoxinha&theme=midnight-purple&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PauloCoxinha&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -36,7 +43,8 @@ My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I espec
 
 
 
-<img align="right" height="340" src="https://lh3.googleusercontent.com/gg-dl/AOI_d_8oJ3Buo8y61G23KTLPkwAi5qNpMajZKXfDdPJ_qBKCnRs_PllftIKN9PAxibt6u-UXWPIeuRbWfSTKPIRmui57c5m3YnSFpHiCnAaXkeloEMoz0spbwrnZFIjFJQ-it_0_4e2OxKirefFj-CY-UClt9J6bDMZ-udUlTS5ecSWsyFDtdA=s1600-rj">
+ <img align="right" width="224" height="224" alt="unnamed" src="https://github.com/user-attachments/assets/8bb41060-3fd9-4c50-a397-7dc18490d1bd"/>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PauloCoxinha/PauloCoxinha/output/github-contribution-grid-snake-dark.svg">
@@ -45,3 +53,6 @@ My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I espec
 </picture>
 
 <br><br>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=7800F2&reversal=false&textBg=false&section=footer">

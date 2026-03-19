@@ -17,3 +17,11 @@ My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I espec
 - Blue Lock currently it's my favorite manga and my favorite anime it's Hunter X Hunter 2011
 - I love Pokémonn
 - I've a Youtube channel!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PauloCoxinha/PauloCoxinha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PauloCoxinha/PauloCoxinha/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PauloCoxinha/PauloCoxinha/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>

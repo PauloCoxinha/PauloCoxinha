@@ -18,8 +18,15 @@ My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I espec
 - I love Pokémonn
 - I've a Youtube channel!
 
-![Kositis's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloCoxinha&show_icons=true&theme=midnight-purple)
+  
+# 📊 GitHub Stats: <br/>
 
+![Kositis's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloCoxinha&show_icons=true&theme=midnight-purple)
+![](https://nirzak-streak-stats.vercel.app/?user=PauloCoxinha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCoxinha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=PauloCoxinha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pkositis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-kositis3) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/paulokositis) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KositisOFC) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@machinekosit) 

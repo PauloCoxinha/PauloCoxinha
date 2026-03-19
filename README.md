@@ -22,25 +22,6 @@
 
 
  
- ## Hey there! 
-
-I'm Paulo Kositis, a front-end developer and designer based in Brazil.
-
-I design and create everything I can imagine.
-
-I love being a creative person, and because of that, I spend a lot of time sketching websites and apps.
-
-My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I especially love creating animations with JavaScript and CSS. i'm currently learning wordpress and python. 
-
-
-
-
-### Fun facts 🤩🤩
-
-- I've a cat
-- Blue Lock currently it's my favorite manga and my favorite anime it's Hunter X Hunter 2011
-- I love Pokémonn
-- I've a Youtube channel!
 
   
 # 📊 GitHub Stats: <br/>
@@ -63,6 +44,28 @@ My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I espec
 <br>
 <br>
 <br>
+
+
+ ## Hey there! 
+
+I'm Paulo Kositis, a front-end developer and designer based in Brazil.
+
+I design and create everything I can imagine.
+
+I love being a creative person, and because of that, I spend a lot of time sketching websites and apps.
+
+My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I especially love creating animations with JavaScript and CSS. i'm currently learning wordpress and python. 
+
+
+
+
+### Fun facts 🤩🤩
+
+- I've a cat
+- Blue Lock currently it's my favorite manga and my favorite anime it's Hunter X Hunter 2011
+- I love Pokémonn
+- I've a Youtube channel!
+
 
 <p align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&duration=3000&pause=1000&color=fff&width=774&lines=+Thanks%2C+for+everthing!+and+drinks+water+it's+important" alt="Typing SVG" /></a> </p>

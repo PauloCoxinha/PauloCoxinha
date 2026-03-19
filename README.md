@@ -36,7 +36,7 @@ My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I espec
 
 
 
-
+<img align="right" height="340" src="https://lh3.googleusercontent.com/gg-dl/AOI_d_8oJ3Buo8y61G23KTLPkwAi5qNpMajZKXfDdPJ_qBKCnRs_PllftIKN9PAxibt6u-UXWPIeuRbWfSTKPIRmui57c5m3YnSFpHiCnAaXkeloEMoz0spbwrnZFIjFJQ-it_0_4e2OxKirefFj-CY-UClt9J6bDMZ-udUlTS5ecSWsyFDtdA=s1600-rj">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PauloCoxinha/PauloCoxinha/output/github-contribution-grid-snake-dark.svg">

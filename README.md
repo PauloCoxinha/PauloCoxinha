@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&duration=3000&pause=1000&color=881DF7&width=774&lines=+Hello%2C+my+name+is+Kositis+and+i'm+student+of+systems+analysis+and+development!" alt="Typing SVG" /></a> </p>
 
-<img width="100%" src=https://github.com/user-attachments/assets/30b4472e-7000-4a53-8216-8be5f27b18b5>
+
 
 
 
@@ -67,14 +67,8 @@ My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I espec
 <img  width="100" src="https://github.com/user-attachments/assets/65b96ed4-ddfb-4c73-84c1-b1647819fa79">
 </p>
 
+<br>
 
-<p align="center">
-<img width="100%"  src="https://github.com/user-attachments/assets/e67e0412-32b9-4df4-8068-76496155e1b6">
-</p>
-
-<br>
-<br>
-<br>
 <h1 align="center"> Snake! </h1>
 <p align="center">
 <picture>

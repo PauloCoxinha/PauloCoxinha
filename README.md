@@ -23,7 +23,7 @@ My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I espec
 
 ![Kositis's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloCoxinha&show_icons=true&theme=midnight-purple)
 ![](https://nirzak-streak-stats.vercel.app/?user=PauloCoxinha&theme=midnight-purple)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCoxinha&theme=midnight-purple_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCoxinha&theme=midnight-purple&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PauloCoxinha&icon=0&color=0)](https://visitcount.itsvg.in)

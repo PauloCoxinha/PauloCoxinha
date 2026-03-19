@@ -18,6 +18,8 @@ My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I espec
 - I love Pokémonn
 - I've a Youtube channel!
 
+[![PauloCoxinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloCoxinha)](https://github.com/PauloCoxinha/github-readme-stats)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PauloCoxinha/PauloCoxinha/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PauloCoxinha/PauloCoxinha/output/github-contribution-grid-snake.svg">

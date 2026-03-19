@@ -18,7 +18,7 @@ My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I espec
 - I love Pokémonn
 - I've a Youtube channel!
 
-![Kositis's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloCoxinha&show_icons=true&theme=tokyonight)
+![Kositis's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloCoxinha&show_icons=true&theme=midnight-purple)
 
 
 <picture>

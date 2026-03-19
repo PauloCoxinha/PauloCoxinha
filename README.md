@@ -6,12 +6,11 @@
 </p>
 
 
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&duration=3000&pause=1000&color=881DF7&width=774&lines=+Hello%2C+my+name+is+Kositis+and+i'm+student+of+systems+analysis+and+development!" alt="Typing SVG" /></a> </p>
 
 <p align="center">
-<img align="center" width="200" src="https://github.com/user-attachments/assets/0b549a89-4c7e-4c57-8ec9-18e87ff134f3"> </p>
+<img align="center" width="200" src="https://github.com/user-attachments/assets/a728952d-76ae-4d65-a0eb-b0a86ad3bb94"> </p>
 
 
 

@@ -24,7 +24,7 @@
  
 
   
-# 📊 GitHub Stats: <br/>
+# 📊 GitHub Stats:
 
 ![Kositis's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloCoxinha&show_icons=true&theme=midnight-purple) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PauloCoxinha&theme=midnight-purple)<br/>
@@ -55,8 +55,6 @@ I design and create everything I can imagine.
 I love being a creative person, and because of that, I spend a lot of time sketching websites and apps.
 
 My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I especially love creating animations with JavaScript and CSS. i'm currently learning wordpress and python. 
-
-
 
 
 ### Fun facts 🤩🤩

@@ -49,7 +49,7 @@ My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I espec
 
 - I've a cat
 - Blue Lock currently it's my favorite manga and my favorite anime it's Hunter X Hunter 2011
-- I love Pokémonn
+- I love Pokémon
 - I've a Youtube channel!
 
 

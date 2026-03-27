@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 
 ![Kositis's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloCoxinha&show_icons=true&theme=midnight-purple) <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PauloCoxinha&theme=midnight-purple)<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=PauloCoxinha&theme=midnight-purple)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCoxinha&theme=midnight-purple&include_all_commits=false&count_private=false&layout=compact)
 
 

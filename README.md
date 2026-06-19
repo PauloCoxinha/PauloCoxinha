@@ -53,7 +53,7 @@ My main tech stack is JavaScript, CSS, HTML, Lua, and motion animations. I espec
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&duration=3000&pause=1000&color=fff&width=774&lines=+Thanks%2C+for+everthing!+and+drinks+water+it's+important" alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&duration=3000&pause=1000&color=fff&width=774&center=true&lines=+Thanks%2C+for+everthing!+and+drinks+water+it's+important" alt="Typing SVG" /></a> </p>
 
 <p align="center">
 <img  width="100" src="https://github.com/user-attachments/assets/c2377477-48e8-4eb7-8dc5-72bd4657eaad">
